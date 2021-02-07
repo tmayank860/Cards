@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Cards"
+  "defaultProject": "Cards",
+  "cli": {
+    "analytics": false
+  }
 }
